@@ -89,7 +89,7 @@ hr {
     justify-self: center;
     padding: 10px;
 }
-.introduction__content__box:first-child{
+.introduction__content__box > li:first-child{
     padding-left: 0;
 }
 .introduction__logo {
